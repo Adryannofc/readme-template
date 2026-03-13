@@ -5,7 +5,6 @@
 ![License](https://img.shields.io/badge/license-MIT-d5d5d5?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/Adryannofc/github-readme-template?style=for-the-badge&color=d4a017)
 ![Forks](https://img.shields.io/github/forks/Adryannofc/github-readme-template?style=for-the-badge&color=282828)
-
 </div>
 
 ---
